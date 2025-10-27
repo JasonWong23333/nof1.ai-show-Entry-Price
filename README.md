@@ -2,7 +2,7 @@
 
 A Tampermonkey userscript that displays entry prices for positions on [nof1.ai](https://nof1.ai/) 🚀
 
-![Screenshot](image.PNG)
+![Screenshot](https://github.com/JasonWong23333/nof1.ai-show-Entry-Price/blob/main/image.png)
 
 ## ✨ Features
 
